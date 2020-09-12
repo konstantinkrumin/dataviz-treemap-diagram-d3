@@ -1,0 +1,11 @@
+@import 'variables';
+
+/* TITLE AND LEGEND */
+#title {
+  font-size: $font-size-title;
+  font-weight: bold;
+}
+
+#description { font-size: $font-size-desc; }
+
+.legend-item-text { font-size: $font-size-legend; }
