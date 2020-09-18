@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dataviz-treemap-diagram-d3/precache-manifest.e63c64ce01780151ac98bf97919a0f19.js"
+  "/dataviz-treemap-diagram-d3/precache-manifest.158de86796cc8b83ef7cb4fca1090df7.js"
 );
 
 self.addEventListener('message', (event) => {
