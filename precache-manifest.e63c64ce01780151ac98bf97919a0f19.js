@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2472b6c86ac3cb5752b121499f0ceaca",
+    "revision": "947953cb57d9496051d7b11b1fe3daf9",
     "url": "/dataviz-treemap-diagram-d3/index.html"
   },
   {
-    "revision": "0a8a2d7bc79fbb725e58",
-    "url": "/dataviz-treemap-diagram-d3/static/css/main.376ef88d.chunk.css"
+    "revision": "afd3673f2886ffaac162",
+    "url": "/dataviz-treemap-diagram-d3/static/css/main.38f35ca3.chunk.css"
   },
   {
     "revision": "7c04b3b227c0b27ed27d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dataviz-treemap-diagram-d3/static/js/2.6a895240.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a8a2d7bc79fbb725e58",
+    "revision": "afd3673f2886ffaac162",
     "url": "/dataviz-treemap-diagram-d3/static/js/main.c54142c6.chunk.js"
   },
   {
